@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is DCB8-5201
+
+ Directory of C:\Users\Dell\Desktop\Java-project
+
+04/14/2021  09:52 AM    <DIR>          .
+04/14/2021  09:52 AM    <DIR>          ..
+04/14/2021  09:21 AM               675 Hello.class
+04/09/2021  10:58 AM               159 Hello.java
+04/14/2021  09:38 AM    <DIR>          Mahesh-test
+04/14/2021  09:41 AM               206 Readme.txt
+04/14/2021  09:52 AM                 0 test.txt
+               4 File(s)          1,040 bytes
+               3 Dir(s)  21,226,758,144 bytes free
